@@ -1,4 +1,4 @@
-numbers = [1, 2, 5, 7, 3]
+numbers = [int(input()), int(input()), int(input())]
 numbers.sort()
 
 print(numbers)
