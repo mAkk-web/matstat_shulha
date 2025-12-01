@@ -13,5 +13,5 @@ else:
     
     while num > 0:
         res = alphabet[num % m] + res  
-        num //= m                    
-    print(sign + res)
+        num //= m                   
+    print(sign + res)  
