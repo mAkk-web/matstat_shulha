@@ -1,4 +1,3 @@
-
 n_str = input()
 k, m = map(int, input().split())
 num = int(n_str, k)
